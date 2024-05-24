@@ -16,3 +16,20 @@ dt{
 b{
     color: rgb(221, 146, 184);
 }
+a{
+    color: rgb(221, 146, 184);
+}
+h2{
+    color: rgb(221, 146, 184);
+}
+table{
+    background-color: rgb(221, 146, 184);
+    border: 3px solid black margin: auto ;
+    border-collapse: collapse;
+}
+th{
+    background-color: rgb(221, 146, 184);
+}
+td{
+    border: 3px solid black;
+}
