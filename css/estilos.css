@@ -32,4 +32,10 @@ th{
 }
 td{
     border: 3px solid black;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline-block; /*pone la lista horizontal*/
+    margin: 10px;
 }
